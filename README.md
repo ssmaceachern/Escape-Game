@@ -1,8 +1,10 @@
 # Escape-Game
 
 PLATFORM : CYGWIN
-HOW TO COMPILE: Enter "make" in the cygwin terminal. \n
-HOW TO RUN: "./game" After following the instructions for HOW TO COMPILE. \n
+HOW TO COMPILE: Enter "make" in the cygwin terminal.
+
+HOW TO RUN: "./game" After following the instructions for HOW TO COMPILE.
+
 
 The game source revolves around the WallManager and ObjectFactory Objects. Once the game starts up, it leads the player to the Menu Screen. Once the player has pressed the 'P' key, the game begins and creates the two objects. 
 The WallManager is responsible for creating the walls that descend from the top of the screen. 
